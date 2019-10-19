@@ -21,7 +21,7 @@
                 // include($_GET['dir'] . "/teste.php");
                 // $_GET['dir']
                 // $_GET['file']
-                include(__DIR__."/{$_GET['dir']}/{$_GET['file']}.php");
+                //  include(__DIR__."/{$_GET['dir']}/{$_GET['file']}.php");
             
             ?>
         </div>
